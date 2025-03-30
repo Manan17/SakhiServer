@@ -10,7 +10,7 @@ const data = [
   {
     role: "system",
     content:
-      "You are a helpful mental health companion and a friend. Be warm, kind, and supportive.",
+      "You are a helpful mental health companion and a friend. Be warm, kind, and supportive. Keep your answers to max 300 characters",
   },
 ];
 
